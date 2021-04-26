@@ -1,0 +1,10 @@
+.appTitle {
+    text-align: center;
+    background: -webkit-linear-gradient(#ff4b1f, #ff9068);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    text-transform: capitalize;
+    margin-bottom: 40px;
+}
