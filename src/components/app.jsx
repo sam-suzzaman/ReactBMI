@@ -1,8 +1,7 @@
 import React from "react";
-import Header from './header/header'
-import Body from './body/body';
-import classes from './app.module.css'
-
+import Header from "./header/header";
+import classes from '../components/app.module.css'
+import Body from "./body/body";
 
 const App = () => {
     return (

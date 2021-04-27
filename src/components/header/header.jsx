@@ -1,7 +1,12 @@
 import React from "react";
-import classes from "./header.module.css";
+import "./header.module.css";
 
 const Header = () => {
-    return <h2 className={classes.appTitle}>bmi calculator</h2>;
+    return (
+        <div className="row">
+            <h2>BMI Calculator</h2>
+        </div>
+    );
 };
+
 export default Header;
